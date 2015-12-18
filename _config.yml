@@ -1,0 +1,28 @@
+name: The Sacred Elephant
+favicon: null
+layout_spectrum: 0.8526081433519721
+typography_spectrum: 0.7251038691028953
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9472015353385359
+  lightness: 0.19282185775227845
+  saturation: 0.4823067777324468
+  rhythmicContrast: 0.11809894070029259
+purpose: []

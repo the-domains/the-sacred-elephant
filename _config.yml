@@ -1,7 +1,7 @@
 name: The Sacred Elephant
 favicon: null
-layout_spectrum: 0.50193
-typography_spectrum: 0.96532
+layout_spectrum: 0.88729
+typography_spectrum: 0.89884
 title: Naturopathic Doctor California
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#8e9293'
     - '#b0b1b3'
     - '#b188d8'
-  brandStrength: 0.9472015353385359
-  lightness: 0.5625
-  saturation: 0.0625
+  brandStrength: 0.5
+  lightness: 0.8125
+  saturation: 0
   rhythmicContrast: 0.5
 purpose: []
